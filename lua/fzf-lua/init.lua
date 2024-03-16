@@ -172,6 +172,7 @@ do
     grep_cword = { "fzf-lua.providers.grep", "grep_cword" },
     grep_cWORD = { "fzf-lua.providers.grep", "grep_cWORD" },
     grep_visual = { "fzf-lua.providers.grep", "grep_visual" },
+    grep_visual_curbuf = { "fzf-lua.providers.grep", "grep_visual_curbuf" },
     grep_curbuf = { "fzf-lua.providers.grep", "grep_curbuf" },
     grep_project = { "fzf-lua.providers.grep", "grep_project" },
     live_grep = { "fzf-lua.providers.grep", "live_grep" },
